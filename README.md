@@ -9,7 +9,7 @@ An Android app that detects unsafe driving patterns in real time using your phon
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="./assets/home.jpg" width="250"/>
