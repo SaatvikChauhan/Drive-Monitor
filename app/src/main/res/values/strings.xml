@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drive Monitor</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="stop_trip">Stop Trip</string>
+    <string name="status_safe">✅ Safe Driving</string>
+    <string name="status_harsh_brake">⚠️ Harsh Braking!</string>
+    <string name="status_rapid_accel">⚠️ Rapid Acceleration!</string>
+    <string name="status_sharp_turn">⚠️ Sharp Turn!</string>
+    <string name="trip_history">Trip History</string>
+    <string name="no_trips">No trips recorded yet.</string>
+    <string name="speed_kmh">Speed: %1$.1f km/h</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="events_label">Events: %1$d</string>
+    <string name="duration_label">Duration: %1$s</string>
+    <string name="channel_name">Drive Monitor Alerts</string>
+    <string name="channel_desc">Alerts for unsafe driving events</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="📋 Trip History"
+        android:textColor="@color/colorAccent"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingTop="12dp"
+        android:paddingBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvNoTrips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No trips recorded yet."
+        android:textColor="@color/colorTextSecondary"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_marginTop="60dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerTrips"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingBottom="16dp"/>
+
+</LinearLayout>
