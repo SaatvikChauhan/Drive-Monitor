@@ -11,14 +11,11 @@ An Android app that detects unsafe driving patterns in real time using your phon
 
 ## 📸 Screenshots
 
-###  Home Screen
-![Home](./assets/home.jpg)
-
-###  Live Trip Dashboard
-![Dashboard](./assets/dashboard.jpg)
-
-###  Trip History
-![History](./assets/history.jpg)
+<p align="center">
+  <img src="./assets/home.jpg" width="250"/>
+  <img src="./assets/dashboard.jpg" width="250"/>
+  <img src="./assets/history.jpg" width="250"/>
+</p>
 
 ---
 
